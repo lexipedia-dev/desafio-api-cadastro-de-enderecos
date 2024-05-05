@@ -25,3 +25,6 @@
  - Estrutura, arquitetura e organização do projeto;
  - Boas práticas de programação; e
  - Alcance dos objetivos propostos.
+
+
+![desafio-cadastro-de-endereco-diagrama-de-classe drawio](https://github.com/lexipedia-dev/desafio-api-cadastro-de-enderecos/assets/50876909/75cc05ec-00c1-4ec5-a5f9-d018ee3a62cc)
