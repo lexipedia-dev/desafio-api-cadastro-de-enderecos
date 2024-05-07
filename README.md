@@ -1,3 +1,6 @@
+# Observação
+Para iniciar o projeto primeiro é necessário rodar o docker compose na pasta raiz do mesmo, isso pois a aplicação depende da conexão com o banco
+
 # Desafio
 1) Utilizando seus conhecimentos, desenvolva uma nova funcionalidade de gerenciamento de pessoas, da apresentação da proposta inicial a entrega final do código.
 2) Será ./’[ o digrama de classes, e o código fonte da funcionalidade.
